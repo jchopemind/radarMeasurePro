@@ -1,0 +1,126 @@
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Jqcl.resources
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dtcl.resources
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl_sjgl.resources
+C:\Users\y\Desktop\c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sjcx_sjcx.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.dll
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.dll
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.dll
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dtcl.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl_sjgl.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sjcx_sjcx.resources
+C:\Users\lx\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dtcl.resources
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl.resources
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl_sjgl.resources
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sjcx_sjcx.resources
+C:\Users\y\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dtcl.resources
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl.resources
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl_sjgl.resources
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sjcx_sjcx.resources
+C:\Users\y\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dtcl.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl_sjgl.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sjcx_sjcx.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.17\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dtcl.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.jqcl_sjgl.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sjcx_sjcx.resources
+C:\Users\y\Desktop\项目\上位机程序\C#瑞恩智铁公司18.01.20\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\y\Desktop\项目\上位机程序\加界面\C#瑞恩智铁公司18.03.08\C#瑞恩智铁公司18.03.03\daochu excel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\y\Desktop\项目\上位机程序\加界面\C#瑞恩智铁公司18.03.08\C#瑞恩智铁公司18.03.03\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\y\Desktop\项目\上位机程序\加界面\C#瑞恩智铁公司18.03.08\C#瑞恩智铁公司18.03.03\daochu excel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
